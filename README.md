@@ -24,10 +24,6 @@ Custom Backgrounds.
 Предложения по работе/стажировке. И рассмотрю любое сотрудничество не обязательно за деньги
 
 
-<img src="https://github.com/BelyahRU/Grocerybattles/assets/93776512/76c0631c-d91c-4945-8e11-45a2ef31077c" width="200" />
-
-<img src="https://github.com/BelyahRU/Grocerybattles/assets/93776512/df25e224-87bc-415f-b791-f7eff007fcb6" width="200" />
-
 <img src="https://github.com/BelyahRU/Grocerybattles/assets/93776512/101f918a-79e3-4fb4-91bc-0d497793b5b5" width="200" />
 
 <img src="https://github.com/BelyahRU/Grocerybattles/assets/93776512/e1e11fd3-84fd-4632-8c39-4fc687ec6680" width="200" />
