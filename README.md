@@ -19,7 +19,7 @@ Grocerybattles - игра чем то похожая на 3 вряд, но эт�
 Список изученых/использованных технологий(мб кому-то поможет): 
 UIButton,UIScrollView, UIImageView, UIImage, UIStackView, UILabel, SnapKit,UIFont, UITableView, UIViewController, UIView,
 UITableViewDelegate, UITableViewDataSource, SceneDelegate, Custom Fonts,Custom Images,Custom Buttons, Custom Switches, 
-Custom Backgrounds.
+Custom Backgrounds, UIAlert, UIAlertController.
 
 Предложения по работе/стажировке. И рассмотрю любое сотрудничество не обязательно за деньги
 
